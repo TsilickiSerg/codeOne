@@ -1,4 +1,3 @@
-//
 //  StickerEditorView.swift
 //  CollageBuilder
 
